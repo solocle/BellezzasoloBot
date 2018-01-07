@@ -1,0 +1,2 @@
+# BellezzasoloBot
+My Wikipedia Bot
